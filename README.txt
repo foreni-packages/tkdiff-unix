@@ -15,3 +15,8 @@ This program is distributed in the hope that it will be useful, but WITHOUT  ANY
 
 You should have received a copy of the GNU General Public License along with  this program; if not, write to the Free Software Foundation, Inc., 59  Temple Place, Suite 330, Boston, MA 02111-1307 USA
 
+INSTALLATION :
+
+1) Go to rpmfind.net and search for /usr/bin/wish for your relevant system.
+
+2) Install the wish package, download the tkdiff and run it simply as : ./tkdiff
